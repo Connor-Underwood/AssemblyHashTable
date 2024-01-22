@@ -1,0 +1,13 @@
+USERNAME:
+OPTIMIZATIONS USED
+1. Inline Hash	
+2. Inline Strcmp
+3. Bitshift 31 multiplication
+4. Make primes power of two then use bit-wise AND
+5. Replace multiplication by 24 with 2 bitshifts
+
+Lookup-bench  TIME s.mmm
+hash-c 1.990
+hash-asm 1.534
+hash-op 1.138
+

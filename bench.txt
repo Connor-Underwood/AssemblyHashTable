@@ -1,4 +1,3 @@
-USERNAME:
 OPTIMIZATIONS USED
 1. Inline Hash	
 2. Inline Strcmp
